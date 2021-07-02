@@ -9,6 +9,16 @@
       "id": 2,
       "title": "This is a test",
       "author": "Emile Bergeron"
+    },
+     {
+      "id": 2,
+      "title": "Bargain",
+      "author": "Bergeron"
+    },
+     {
+      "id": 2,
+      "title": "Movie",
+      "author": "Emile"
     }
   ]
 }

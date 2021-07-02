@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "your",
+      "author": "happy"
+    },
+    {
+      "id": 2,
+      "title": "This is a test",
+      "author": "Emile Bergeron"
+    }
+  ]
+}

@@ -20,5 +20,9 @@
       "title": "Movie",
       "author": "Emile"
     }
+  ],
+   "favourites" :{"movie":"harry"},
+    "comm": [
+    { "id": 1, "body": "someeeee comment", "postId": 49 }
   ]
 }

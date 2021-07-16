@@ -73,7 +73,8 @@
       "Material":"Cotton",
       "Quantity": 1,
       "id":5,
-       
+       "img1":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14175062/2021/7/9/0db1cffb-c699-4334-bae8-6e5ba58a9ab41625807391989-ALDO-Black--Beige-Leopard-Printed-Structured-Satchel-5616258-2.jpg",
+       "img2":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14175062/2021/7/9/9d23fc3c-990a-4e85-92ed-653ef6b78a7b1625807391942-ALDO-Black--Beige-Leopard-Printed-Structured-Satchel-5616258-7.jpg",
        "img":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/14175062/2021/7/9/924136f5-254a-4136-884d-ef40670334491625807391999-ALDO-Black--Beige-Leopard-Printed-Structured-Satchel-5616258-1.jpg"
      },
      {
@@ -102,8 +103,9 @@
       "Material":"Cotton",
       "Quantity": 1,
       "id":7,
-       
-       "img":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/11917602/2020/6/15/d3fe40d0-2902-4c90-b01b-cc2be7974dd51592204640245PalazzosLibasWomenDressesLibasWomenDressesLibasWomenKurtasLi1.jpg"
+       "img1":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2687696/2018/3/5/11520244773712-na-8411520244773560-3.jpg",
+       "img2":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2687696/2018/3/5/11520244773653-na-8411520244773560-5.jpg",
+       "img":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2687696/2018/3/5/11520244773767-na-8411520244773560-1.jpg"
      },
      {
       "name": "ANOUK",
@@ -116,7 +118,8 @@
       "Material":"Cotton",
       "Quantity": 1,
       "id":8,
-       
+       "img1":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/5/24/6e83aef4-1869-41fc-81db-3056c915baae1621875449176-3.jpg",
+       "img2":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/5/24/39f9a801-b120-4c14-a4ba-f797e15ae4741621875449198-4.jpg",
        "img":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/5/24/c0c3797b-3acf-40b6-932a-2655c9dafa901621875449134-1.jpg"
      },
      {
@@ -130,8 +133,9 @@
       "Material":"Cotton",
       "Quantity": 1,
       "id":9,
-       
-       "img":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/12/3/88756e45-5879-49af-bbd4-e70ce57cfaab1575329098529-1.jpg"
+       "img1":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11902434/2020/6/3/cbb43f39-042f-4428-aa4d-2647e91851c01591167488986FabAlleyWomenYellowEmbellishedDress4.jpg",
+       "img2":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11902434/2020/6/3/29df1cfb-e79a-47e3-9158-f7a5b611ffb01591167488935FabAlleyWomenYellowEmbellishedDress3.jpg",
+       "img":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11902434/2020/6/3/93ecda10-6f17-494c-9403-5cb355e3067a1591167489033FabAlleyWomenYellowEmbellishedDress5.jpg"
      },
      {
       "name": "DressBerry",
@@ -144,8 +148,9 @@
       "Material":"Cotton",
       "Quantity": 1,
       "id":10,
-       
-      "img":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/10382853/2019/8/26/f9d5e2fa-808f-4163-9941-f3ab25a3e0e61566823180889-AHIKA-Women-Kurtas-261566823179379-1.jpg"
+       "img1":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10382853/2019/8/26/0bd0b00a-0ef6-4d9d-ad49-1200ae6758261566823180844-AHIKA-Women-Kurtas-261566823179379-2.jpg",
+        "img2":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10382853/2019/8/26/59ea3ae7-24c4-4d2d-90d7-3424efbdc2b81566823180820-AHIKA-Women-Kurtas-261566823179379-3.jpg",
+       "img":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/10382853/2019/8/26/f9d5e2fa-808f-4163-9941-f3ab25a3e0e61566823180889-AHIKA-Women-Kurtas-261566823179379-1.jpg"
     }
     
   ],

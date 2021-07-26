@@ -11,6 +11,8 @@
       "Material":"Cotton",
       "Quantity": 1,
       "id":1,
+      "comment1":"nice product",
+      "comment2":"nice Fabric",
       "img1":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7719007/2018/11/19/8434f694-ac26-4143-b404-f2cc6c2ada441542608837248-Libas-Women-Dresses-9261542608836986-2.jpg",
         "img2":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7719007/2018/11/19/5e4d68ce-575c-4a07-b0f9-2992539c710a1542608837215-Libas-Women-Dresses-9261542608836986-4.jpg",               
       "img":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/7719007/2018/11/19/1cac68d7-2389-48c8-b6d0-0a16c7d4236b1542608837264-Libas-Women-Dresses-9261542608836986-1.jpg"
@@ -27,6 +29,8 @@
       "Material":"Cotton",
       "Quantity": 1,
       "id":2,
+      "comment1":"nice product",
+      "comment2":"nice Fabric",
       
          "img1":"https://assets.panashindia.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/2/0/2050lg03-1001c.jpg",
       "img2":"https://www.ethnicplus.in/media/catalog/product/cache/1/image/1800x/040ec09b1e35df139433887a97daa66f/1/0/1002_c.1.jpg",
@@ -43,6 +47,8 @@
       "Material":"Cotton",
       "Quantity":1,
       "id":3,
+      "comment1":"nice product",
+      "comment2":"nice Fabric",
       "img2":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11364418/2020/1/28/8294dfd5-911f-46a4-9775-7c94cb4817be1580207576852-SASSAFRAS-Women-Maroon-Solid-Tiered-Maxi-Dress-3781580207574-5.jpg",
       "img1":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11364418/2020/1/28/625db38e-f8e1-4471-b984-25ade4b8c7791580207576967-SASSAFRAS-Women-Maroon-Solid-Tiered-Maxi-Dress-3781580207574-3.jpg",
       "img":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/11364418/2020/1/28/8e31363f-8ac5-4669-9aa8-114d502d7be61580207577109-SASSAFRAS-Women-Maroon-Solid-Tiered-Maxi-Dress-3781580207574-1.jpg"
@@ -58,6 +64,8 @@
       "Material":"Cotton",
       "Quantity": 1,
       "id":4,
+       "comment1":"nice product",
+      "comment2":"nice Fabric",
        "img1":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10300335/2020/2/14/cc26fdbd-a249-4488-baad-24dc9556d43f1581684402552-KLEIO-Black-Solid-Sling-Bag-2881581684400858-3.jpg",
        "img2":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10300335/2020/2/14/234d3cc3-8d91-42e5-b7c7-ca06e3f102d61581684402393-KLEIO-Black-Solid-Sling-Bag-2881581684400858-6.jpg",
        "img":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/10300335/2020/2/14/b32f70f7-e64b-48a2-acb5-8a670e33d25f1581684402643-KLEIO-Black-Solid-Sling-Bag-2881581684400858-1.jpg"
@@ -73,6 +81,8 @@
       "Material":"Cotton",
       "Quantity": 1,
       "id":5,
+       "comment1":"nice product",
+      "comment2":"nice Fabric",
        "img1":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14175062/2021/7/9/0db1cffb-c699-4334-bae8-6e5ba58a9ab41625807391989-ALDO-Black--Beige-Leopard-Printed-Structured-Satchel-5616258-2.jpg",
        "img2":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14175062/2021/7/9/9d23fc3c-990a-4e85-92ed-653ef6b78a7b1625807391942-ALDO-Black--Beige-Leopard-Printed-Structured-Satchel-5616258-7.jpg",
        "img":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/14175062/2021/7/9/924136f5-254a-4136-884d-ef40670334491625807391999-ALDO-Black--Beige-Leopard-Printed-Structured-Satchel-5616258-1.jpg"
@@ -88,6 +98,8 @@
       "Material":"Cotton",
       "Quantity": 1,
       "id":6,
+       "comment1":"nice product",
+      "comment2":"nice Fabric",
        "img2":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10833298/2019/11/22/967709a3-99c4-4fa3-ba59-cdaf378bc54f1574397682279-SASSAFRAS-Women-Dresses-7191574397680775-3.jpg",
        "img1":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10833298/2019/11/22/e2f6b969-33dc-4a1e-828c-cb9ad5e44e941574397682221-SASSAFRAS-Women-Dresses-7191574397680775-4.jpg",
        "img":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/10833298/2019/11/22/2fb4e890-6442-47e3-a19f-99c32cd5b0c11574397682346-SASSAFRAS-Women-Dresses-7191574397680775-1.jpg"
@@ -103,6 +115,8 @@
       "Material":"Cotton",
       "Quantity": 1,
       "id":7,
+       "comment1":"nice product",
+      "comment2":"nice Fabric",
        "img1":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2687696/2018/3/5/11520244773712-na-8411520244773560-3.jpg",
        "img2":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2687696/2018/3/5/11520244773653-na-8411520244773560-5.jpg",
        "img":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2687696/2018/3/5/11520244773767-na-8411520244773560-1.jpg"
@@ -118,7 +132,8 @@
       "Material":"Cotton",
       "Quantity": 1,
       "id":8,
-      
+      "comment1":"nice product",
+      "comment2":"nice Fabric",
        "img":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/5/24/c0c3797b-3acf-40b6-932a-2655c9dafa901621875449134-1.jpg"
      },
      {
@@ -132,7 +147,8 @@
       "Material":"Cotton",
       "Quantity": 1,
       "id":9,
-      
+      "comment1":"nice product",
+      "comment2":"nice Fabric",
        "img":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11902434/2020/6/3/93ecda10-6f17-494c-9403-5cb355e3067a1591167489033FabAlleyWomenYellowEmbellishedDress5.jpg"
      },
      {
@@ -146,6 +162,8 @@
       "Material":"Cotton",
       "Quantity": 1,
       "id":10,
+       "comment1":"nice product",
+      "comment2":"nice Fabric",
      
        "img":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/10382853/2019/8/26/f9d5e2fa-808f-4163-9941-f3ab25a3e0e61566823180889-AHIKA-Women-Kurtas-261566823179379-1.jpg"
     }
